@@ -6,7 +6,7 @@ Note: You should know this, but we're not affiliated with Apple Computers or App
 - A basic understanding of discord.js
 - npm
 - discord.js 11.4.2
-- A good host
+- A good host (such as <repl.it>)
 ## Setting Finder Up
 Run `npm install` in your Finder install's directory. The required dependencies should install.  
 Once you've done that, make a `config.json` file with the following template:
