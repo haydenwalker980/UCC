@@ -19,7 +19,7 @@ client.tools = require("./modules/Tools.js");
 ** handlers the bot will need to function correctly.
 */
 client.on('message', message => {
-	console.log(message.content);
+	console.log(`MsgHandler | <@${message.author.id}> (@${message.author.tag}) in ${message.guild.name} (GID ${message.guild.id}, CN ${message.channel.name}): ${message.content}`);
   
 });
 // Event Handler
