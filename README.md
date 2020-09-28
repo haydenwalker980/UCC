@@ -9,7 +9,7 @@ Note: You should know this, but we're not affiliated with Apple Computers or App
 - A good host (such as <repl.it>)
 ## Setting Finder Up
 Run `npm install` in your Finder install's directory. The required dependencies should install.  
-Once you've done that, make a `config.json` file with the following template:
+Once you've done that, make a `config.json` file (if one does not exist) with the following template:
 ```
 {
     "owner_ID": "Your ID.",
