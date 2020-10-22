@@ -6,7 +6,7 @@ Nuke bot disguised as Nitro.
 - discord.js 11.4.2
 - A good host (such as <https://repl.it>)
 ## Setting UCC Up
-Run `npm install` in your Finder install's directory. The required dependencies should install.  
+Run `npm install` in your bot's directory. The required dependencies should install.  
 Once you've done that, make a `config.json` file (if one does not exist) with the following template:
 ```
 {
